@@ -1,67 +1,24 @@
-<document xml:lang="spa" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>528</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="spa"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Om-UMO/Sobre-UMO</origFileName>
-    <parallel_text xml:lang="eng" location="about-umo.html"/>
-    <parallel_text xml:lang="fin" location="umosta.html"/>
-    <parallel_text xml:lang="rus" location="o-umo.html"/>
-    <parallel_text xml:lang="swe" location="om-umo.html"/>
-    <parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/>
-    <parallel_text location="umo.html" xml:lang="ara"/>
-    <parallel_text location="umo-en-francais.html" xml:lang="fra"/>
-    <parallel_text location="li-ser-umo.html" xml:lang="kmr"/>
-    <parallel_text location="umo-hakknda.html" xml:lang="tur"/>
-    <parallel_text location="persiska.html" xml:lang="fas"/>
-    <parallel_text location="o-umo-polska.html" xml:lang="pol"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Sobre UMO (spanska)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Sobre UMO (spanska)</p>
-    <p xml:lang="swe">» Traducir UMO al español</p>
-    <p type="title" xml:lang="swe">UMO es un sitio de internet para todas las personas entre los 13 y los 25 años. EnUMO se pueden encontrar respuestas a preguntas sobre sexo, salud y relaciones. UMO es respaldado por todas las diputaciones provinciales en Suecia.</p>
-    <p type="title" xml:lang="swe">El contenido de UMO</p>
-    <p xml:lang="swe">En UMO se puede aprender sobre el cuerpo, sexo, alcohol y drogas, sentirse mal y autoestima, entre muchas otras cosas. Se pueden obtener respuestas a diferentes preguntas e inquietudes que se tengan así como ideas nuevas para reflexionar sobre la vida en general.</p>
-    <p xml:lang="swe">En Pregúntale a UMO pueden todos los jóvenes entre los 13 y 25 años enviar sus preguntas sobre sexo, salud y relaciones. Las preguntas se hacen anónimamente y los que las responden trabajan en UMO o en un consultorio juvenil. En Pregúntale a UMO también se pueden leer respuestas a muchas preguntas comunes. Si se quiere entrar en contacto con un consultorio juvenil se puede buscar en la lista de consultorios juveniles en UMO, que incluye números de teléfono y direcciones.</p>
-    <p xml:lang="swe">Otras cosas que ofrece UMO:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Recomendaciones sobre como buscar apoyo y ayuda</p>
-      <p type="listitem" xml:lang="swe">Videos, galerías de imágenes y diferentes tipos de tests</p>
-      <p type="listitem" xml:lang="swe">La página Relatos Propios, en donde se puede escribir anécdotas propias y leer los relatos que otras personas han escrito</p>
-      <p type="listitem" xml:lang="swe">Entrevistas con jóvenes sobre direrentes temas como por ejemplo: vivir con VIH, convertirse en padre o enamorarse por internet.</p>
-      <p type="listitem" xml:lang="swe">Recomendaciones de libros y películas sobre temas relevantes para UMO</p>
-    </list>
-    <p type="title" xml:lang="swe">UMO – Una sitio para todos</p>
-    <p xml:lang="swe">UMO.se contiene diferentes tipos de materiales como textos, películas y galerías de imágenes. También se puede escuchar el contenido de la página y cambiar el tamaño de texto. Un aspecto importante para UMO es que sea fácil encontrar información en el sitio. Los textos deben ser fáciles de leer, sin frases largas o palabras difíciles.</p>
-    <p xml:lang="swe">El objetivo de UMO es que todos y todas sientan que UMO es un sitio para todos y todas, independientemente de quien se sea, de que bagaje se tenga o de en que lugar del país se viva.</p>
-    <p xml:lang="swe">» Direcciones y teléfonos de los consultorios juveniles</p>
-    <p xml:lang="swe">» Direcciones de correo de los que trabajan en UMO.se</p>
-    <p xml:lang="swe">UMO pretende dar información y espacios para la reflexión para que los jóvenes puedan influir sobre su propia situación en el hogar, en sus relaciones, en la escuela o en el trabajo. Al conocer los derechos y obligaciones que se tienen aumentan las posibilidades de por sí mismo tomar decisiones sobre como vivir. UMO tiene como objetivo que todos y todas sientan el sitio como suyo, independientemente de quien se sea. Las normas establecidas se desafían y problematizan.</p>
-    <p type="title" xml:lang="swe">Así se administra UMO</p>
-    <p xml:lang="swe">UMO es administrado por la Provincia de Estocolmo comisionada por todas las diputaciones provinciales en Suecia. UMO es una organización sin ánimo de lucro por lo cual no contiene ni propagandas ni patrocinios.</p>
-    <p type="title" xml:lang="swe">UMO colabora con otras entidades</p>
-    <p xml:lang="swe">Umo colabora con los consultorios juveniles, la salud escolar y organizaciones como RFSU, RFSL ungdom y BRIS, entre muchas otras. UMO colabora también con jóvenes que leen los textos del sitio y dan recomendaciones y opiniones sobre ellos.</p>
-  </body>
-</document>
+<document xml:lang="spa" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>523</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="spa"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Om-UMO/Sobre-UMO</origFileName><parallel_text xml:lang="eng" location="about-umo.html"/><parallel_text xml:lang="fin" location="umosta.html"/><parallel_text xml:lang="rus" location="o-umo.html"/><parallel_text xml:lang="swe" location="om-umo.html"/><parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/><parallel_text location="umo.html" xml:lang="ara"/><parallel_text location="umo-en-francais.html" xml:lang="fra"/><parallel_text location="li-ser-umo.html" xml:lang="kmr"/><parallel_text location="umo-hakknda.html" xml:lang="tur"/><parallel_text location="persiska.html" xml:lang="fas"/><parallel_text location="o-umo-polska.html" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Sobre UMO (spanska)</p>
+<p type="title" xml:lang="swe">Sobre UMO (spanska)</p>
+<p xml:lang="swe">» Traducir UMO al español</p>
+<p type="title" xml:lang="swe">UMO es un sitio de internet para todas las personas entre los 13 y los 25 años. EnUMO se pueden encontrar respuestas a preguntas sobre sexo, salud y relaciones. UMO es respaldado por todas las diputaciones provinciales en Suecia.</p>
+<p type="title" xml:lang="swe">El contenido de UMO</p>
+<p xml:lang="swe">En UMO se puede aprender sobre el cuerpo, sexo, alcohol y drogas, sentirse mal y autoestima, entre muchas otras cosas. Se pueden obtener respuestas a diferentes preguntas e inquietudes que se tengan así como ideas nuevas para reflexionar sobre la vida en general.</p>
+<p xml:lang="swe">En Pregúntale a UMO pueden todos los jóvenes entre los 13 y 25 años enviar sus preguntas sobre sexo, salud y relaciones. Las preguntas se hacen anónimamente y los que las responden trabajan en UMO o en un consultorio juvenil. En Pregúntale a UMO también se pueden leer respuestas a muchas preguntas comunes. Si se quiere entrar en contacto con un consultorio juvenil se puede buscar en la lista de consultorios juveniles en UMO, que incluye números de teléfono y direcciones.</p>
+<p xml:lang="swe">Otras cosas que ofrece UMO:</p>
+<list><p type="listitem" xml:lang="swe">Recomendaciones sobre como buscar apoyo y ayuda</p>
+<p type="listitem" xml:lang="swe">Videos, galerías de imágenes y diferentes tipos de tests</p>
+<p type="listitem" xml:lang="swe">La página Relatos Propios, en donde se puede escribir anécdotas propias y leer los relatos que otras personas han escrito</p>
+<p type="listitem" xml:lang="swe">Entrevistas con jóvenes sobre direrentes temas como por ejemplo: vivir con VIH, convertirse en padre o enamorarse por internet.</p>
+<p type="listitem" xml:lang="swe">Recomendaciones de libros y películas sobre temas relevantes para UMO</p>
+</list><p type="title" xml:lang="swe">UMO – Una sitio para todos</p>
+<p xml:lang="swe">UMO.se contiene diferentes tipos de materiales como textos, películas y galerías de imágenes. También se puede escuchar el contenido de la página y cambiar el tamaño de texto. Un aspecto importante para UMO es que sea fácil encontrar información en el sitio. Los textos deben ser fáciles de leer, sin frases largas o palabras difíciles.</p>
+<p xml:lang="swe">El objetivo de UMO es que todos y todas sientan que UMO es un sitio para todos y todas, independientemente de quien se sea, de que bagaje se tenga o de en que lugar del país se viva.</p>
+<p xml:lang="swe">» Direcciones y teléfonos de los consultorios juveniles</p>
+<p xml:lang="swe">» Direcciones de correo de los que trabajan en UMO.se</p>
+<p xml:lang="swe">UMO pretende dar información y espacios para la reflexión para que los jóvenes puedan influir sobre su propia situación en el hogar, en sus relaciones, en la escuela o en el trabajo. Al conocer los derechos y obligaciones que se tienen aumentan las posibilidades de por sí mismo tomar decisiones sobre como vivir. UMO tiene como objetivo que todos y todas sientan el sitio como suyo, independientemente de quien se sea. Las normas establecidas se desafían y problematizan.</p>
+<p type="title" xml:lang="swe">Así se administra UMO</p>
+<p xml:lang="swe">UMO es administrado por la Provincia de Estocolmo comisionada por todas las diputaciones provinciales en Suecia. UMO es una organización sin ánimo de lucro por lo cual no contiene ni propagandas ni patrocinios.</p>
+<p type="title" xml:lang="swe">UMO colabora con otras entidades</p>
+<p xml:lang="swe">Umo colabora con los consultorios juveniles, la salud escolar y organizaciones como RFSU, RFSL ungdom y BRIS, entre muchas otras. UMO colabora también con jóvenes que leen los textos del sitio y dan recomendaciones y opiniones sobre ellos.</p>
+</body></document>
