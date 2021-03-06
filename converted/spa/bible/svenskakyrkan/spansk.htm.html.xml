@@ -1,11 +1,11 @@
-<document xml:lang="spa" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>1485</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="spa"/></multilingual><origFileName>http://www.svenskakyrkan.se/kyrkoval2005/spansk.htm</origFileName><parallel_text xml:lang="eng" location="eng.htm.html"/><parallel_text xml:lang="fin" location="finsktrk.htm.html"/><parallel_text xml:lang="sma" location="sydsam.htm.html"/><parallel_text xml:lang="sme" location="nordsamiska.htm.html"/><parallel_text xml:lang="smj" location="lulesamiska.htm.html"/><parallel_text location="franska.htm.html" xml:lang="fra"/><parallel_text location="tyska.htm.html" xml:lang="deu"/><parallel_text location="romani.htm.html" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">spansk</p>
+<document xml:lang="spa" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>1485</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="spa"/></multilingual><origFileName>http://www.svenskakyrkan.se/kyrkoval2005/spansk.htm</origFileName><parallel_text xml:lang="eng" location="eng.htm.html"/><parallel_text xml:lang="fin" location="finsktrk.htm.html"/><parallel_text xml:lang="sma" location="sydsam.htm.html"/><parallel_text xml:lang="sme" location="nordsamiska.htm.html"/><parallel_text xml:lang="smj" location="lulesamiska.htm.html"/><parallel_text location="franska.htm.html" xml:lang="fra"/><parallel_text location="tyska.htm.html" xml:lang="deu"/><parallel_text location="romani.htm.html" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="swe">spansk</p>
 <p xml:lang="swe"></p>
 <p xml:lang="swe"></p>
-<p xml:lang="swe">Start</p>
+<p>Start</p>
 <p xml:lang="swe">Svenska kyrkan</p>
 <p xml:lang="swe">Att rösta</p>
 <p xml:lang="swe">Att ställa upp</p>
-<p xml:lang="swe">Valresultat</p>
+<p>Valresultat</p>
 <p xml:lang="swe">Ladda ned</p>
 <p xml:lang="swe">Kontakt</p>
 <p xml:lang="swe">Vad röstar man till?</p>
@@ -18,120 +18,120 @@
 <p xml:lang="swe">Kortfakta om valet</p>
 <p xml:lang="swe">Länkar</p>
 <p xml:lang="swe">Att rösta</p>
-<p xml:lang="swe">Español (pdf, 128 kB)</p>
-<p xml:lang="swe">Elecciones eclesiásticas 18 de septiembre.</p>
-<p xml:lang="swe">Es usted quien elige.</p>
-<p xml:lang="swe">La Iglesia Sueca tiene algo más de 7 millones de miembros y es sostenida por personas que quieren participar y responsabilizarse, desarrollar y configurar el futuro de la iglesia. El 18 de septiembre todos los miembros que han cumplido 16 años y están registrados civilmente en Suecia tienen la oportunidad de influir sobre quienes recibirán la confianza de dirigir la Iglesia Sueca los próximos cuatro años.</p>
-<p xml:lang="swe">La actividad de la Iglesia Sueca es considerable y abarca un campo extenso. La iglesia quiere ser un lugar para preguntas y conversaciones, un lugar de encuentro para comunión, espiritualidad y contacto con Dios. Una iglesia que otorgue esperanza y actúe para la salud espiritual de cada persona. Una iglesia abierta y presente que se encuentre del lado de los necesitados donde se ponen en práctica los valores humanos fundamentales cristianos, tanto aquí en casa como en el extranjero, en la alegría y tristeza, en días laborables y fiestas.</p>
-<p xml:lang="swe">¿Dónde ha de poner su enfásis la Iglesia Sueca?</p>
-<p xml:lang="swe">¿Estar presente en los lugares después de catástrofes y accidentes?</p>
-<p xml:lang="swe">¿Bautizar, confirmar, casar y enterrar?</p>
-<p xml:lang="swe">¿Visitar ancianos, enfermos y personas que estén solas?</p>
-<p xml:lang="swe">¿Cuestiones de refugiados?</p>
-<p xml:lang="swe">¿Celebrar la navidad, pascua y pentecostés?</p>
-<p xml:lang="swe">¿Trabajo de medioambiente?</p>
-<p xml:lang="swe">¿Preservar los edificios eclesiásticos?</p>
-<p xml:lang="swe">¿Comercio justo?</p>
-<p xml:lang="swe">¿Actividad musical para niños y jóvenes?</p>
-<p xml:lang="swe">………………………?</p>
-<p xml:lang="swe">Elecciones eclesiásticas el 18 de septiembre</p>
-<p xml:lang="swe">En las elecciones eclesiásticas el 18 de septiembre eligirá dónde ha de poner su enfásis la Iglesia Sueca los próximos cuatro años. ¿A quién quiere usted otorgar su confianza? El día de las elecciones votará en el local electoral que se indique en su tarjeta de elector que por tener derecho a voto recibirá en su buzón de correo como muy tarde el 31 de agosto. Ahí se indicará además si en el día de las elecciones habrá lugares especiales de recepción del voto. También puede votar antes del día de las elecciones.</p>
-<p xml:lang="swe">Las elecciones eclesiásticas son tres o cuatro elecciones</p>
-<p xml:lang="swe">En las elecciones eclesiásticas votará en tres o cuatro elecciones, dependiendo de cómo sea la organización local en la parroquia a la que usted pertenezca:</p>
-<p xml:lang="swe">1) sínodo o asamblea parroquial o consejo parroquial directamente elegido</p>
-<p xml:lang="swe">Aquí se tratan cuestiones que atañen a la vida de la parroquia, por ejemplo la actividad que se lleva a cabo y los objetivos que la parroquia debe perseguir.</p>
-<p xml:lang="swe">2) sínodo o asamblea presbiteral</p>
-<p xml:lang="swe">A menudo colaboran varias parroquias económicamente y administrativamente en un presbiterio. El sínodo o asamblea presbiteral decide sobre la administración de recursos, cuestiones sobre inmuebles y similares.</p>
-<p xml:lang="swe">3) sínodo o asamblea diocesal</p>
-<p xml:lang="swe">La Iglesia Sueca está dividida en trece diócesis. Cada diócesis está dirigida por un obispo. Entre las tareas de la diócesis se encuentra apoyar a las parroquias a desarrollar su trabajo.</p>
-<p xml:lang="swe">4) sínodo general</p>
-<p xml:lang="swe">El Sínodo General es el órgano superior de decisión de la Iglesia Sueca con 251 miembros. Aquí se deciden las cuestiones comunes que por ejemplo se refieren a las normas de la iglesia al igual que cuestiones tales como bautizos, confirmaciones, matrimonios y funerales.</p>
-<p xml:lang="swe">La elección en la que puede votar viene indicada en su tarjeta de elector.</p>
-<p xml:lang="swe">Ilustración</p>
+<p>Español (pdf, 128 kB)</p>
+<p>Elecciones eclesiásticas 18 de septiembre.</p>
+<p>Es usted quien elige.</p>
+<p>La Iglesia Sueca tiene algo más de 7 millones de miembros y es sostenida por personas que quieren participar y responsabilizarse, desarrollar y configurar el futuro de la iglesia. El 18 de septiembre todos los miembros que han cumplido 16 años y están registrados civilmente en Suecia tienen la oportunidad de influir sobre quienes recibirán la confianza de dirigir la Iglesia Sueca los próximos cuatro años.</p>
+<p>La actividad de la Iglesia Sueca es considerable y abarca un campo extenso. La iglesia quiere ser un lugar para preguntas y conversaciones, un lugar de encuentro para comunión, espiritualidad y contacto con Dios. Una iglesia que otorgue esperanza y actúe para la salud espiritual de cada persona. Una iglesia abierta y presente que se encuentre del lado de los necesitados donde se ponen en práctica los valores humanos fundamentales cristianos, tanto aquí en casa como en el extranjero, en la alegría y tristeza, en días laborables y fiestas.</p>
+<p>¿Dónde ha de poner su enfásis la Iglesia Sueca?</p>
+<p>¿Estar presente en los lugares después de catástrofes y accidentes?</p>
+<p>¿Bautizar, confirmar, casar y enterrar?</p>
+<p>¿Visitar ancianos, enfermos y personas que estén solas?</p>
+<p>¿Cuestiones de refugiados?</p>
+<p>¿Celebrar la navidad, pascua y pentecostés?</p>
+<p>¿Trabajo de medioambiente?</p>
+<p>¿Preservar los edificios eclesiásticos?</p>
+<p>¿Comercio justo?</p>
+<p>¿Actividad musical para niños y jóvenes?</p>
+<p>………………………?</p>
+<p>Elecciones eclesiásticas el 18 de septiembre</p>
+<p>En las elecciones eclesiásticas el 18 de septiembre eligirá dónde ha de poner su enfásis la Iglesia Sueca los próximos cuatro años. ¿A quién quiere usted otorgar su confianza? El día de las elecciones votará en el local electoral que se indique en su tarjeta de elector que por tener derecho a voto recibirá en su buzón de correo como muy tarde el 31 de agosto. Ahí se indicará además si en el día de las elecciones habrá lugares especiales de recepción del voto. También puede votar antes del día de las elecciones.</p>
+<p>Las elecciones eclesiásticas son tres o cuatro elecciones</p>
+<p>En las elecciones eclesiásticas votará en tres o cuatro elecciones, dependiendo de cómo sea la organización local en la parroquia a la que usted pertenezca:</p>
+<p>1) sínodo o asamblea parroquial o consejo parroquial directamente elegido</p>
+<p>Aquí se tratan cuestiones que atañen a la vida de la parroquia, por ejemplo la actividad que se lleva a cabo y los objetivos que la parroquia debe perseguir.</p>
+<p>2) sínodo o asamblea presbiteral</p>
+<p>A menudo colaboran varias parroquias económicamente y administrativamente en un presbiterio. El sínodo o asamblea presbiteral decide sobre la administración de recursos, cuestiones sobre inmuebles y similares.</p>
+<p>3) sínodo o asamblea diocesal</p>
+<p>La Iglesia Sueca está dividida en trece diócesis. Cada diócesis está dirigida por un obispo. Entre las tareas de la diócesis se encuentra apoyar a las parroquias a desarrollar su trabajo.</p>
+<p>4) sínodo general</p>
+<p>El Sínodo General es el órgano superior de decisión de la Iglesia Sueca con 251 miembros. Aquí se deciden las cuestiones comunes que por ejemplo se refieren a las normas de la iglesia al igual que cuestiones tales como bautizos, confirmaciones, matrimonios y funerales.</p>
+<p>La elección en la que puede votar viene indicada en su tarjeta de elector.</p>
+<p>Ilustración</p>
 <p xml:lang="swe">Direkt val till</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Elección directa para</p>
+<p>=</p>
+<p>Elección directa para</p>
 <p xml:lang="swe">Nationell nivå</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Nivel nacional</p>
+<p>=</p>
+<p>Nivel nacional</p>
 <p xml:lang="swe">Kyrkomötet</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">El Sínodo General</p>
-<p xml:lang="swe">Kyrkostyrelsen</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">La Comisión Permanente</p>
+<p>=</p>
+<p>El Sínodo General</p>
+<p>Kyrkostyrelsen</p>
+<p>=</p>
+<p>La Comisión Permanente</p>
 <p xml:lang="swe">Regional nivå</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Nivel regional</p>
+<p>=</p>
+<p>Nivel regional</p>
 <p xml:lang="swe">Stiftsfullmäktige</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Sínodo o Asamblea Diocesal</p>
-<p xml:lang="swe">Stiftsstyrelse</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Consejo Diocesal</p>
+<p>=</p>
+<p>Sínodo o Asamblea Diocesal</p>
+<p>Stiftsstyrelse</p>
+<p>=</p>
+<p>Consejo Diocesal</p>
 <p xml:lang="swe">Lokal nivå</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Nivel local</p>
+<p>=</p>
+<p>Nivel local</p>
 <p xml:lang="swe">Lokal nivå när församlingen ej ingår i samfällighet</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Nivel local cuando la parroquia no está agrupada en prebisterio (agrupación de parroquias)</p>
+<p>=</p>
+<p>Nivel local cuando la parroquia no está agrupada en prebisterio (agrupación de parroquias)</p>
 <p xml:lang="swe">Lokal nivå när församlingen ingår i samfällighet</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Nivel local cuando la parroquia está agrupada en presbiterio (agrupación de parroquias)</p>
+<p>=</p>
+<p>Nivel local cuando la parroquia está agrupada en presbiterio (agrupación de parroquias)</p>
 <p xml:lang="swe">Samfällda kyrkofullmäktige</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Sínodo o Asamblea Presbiteral</p>
+<p>=</p>
+<p>Sínodo o Asamblea Presbiteral</p>
 <p xml:lang="swe">Kyrkonämnd</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Consejo Presbiteral</p>
+<p>=</p>
+<p>Consejo Presbiteral</p>
 <p xml:lang="swe">Kyrkofullmäktige</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Asamblea Parroquial</p>
+<p>=</p>
+<p>Asamblea Parroquial</p>
 <p xml:lang="swe">Kyrkoråd</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Consejo Parroquial</p>
+<p>=</p>
+<p>Consejo Parroquial</p>
 <p xml:lang="swe">Direktvalt kyrkoråd</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Consejo Parroquial directamente elegido</p>
+<p>=</p>
+<p>Consejo Parroquial directamente elegido</p>
 <p xml:lang="swe">Kyrkostämma</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Asamblea de Iglesia</p>
+<p>=</p>
+<p>Asamblea de Iglesia</p>
 <p xml:lang="swe">Så här fungerar det</p>
-<p xml:lang="swe">=</p>
+<p>=</p>
 <p xml:lang="swe">De esta manera funciona</p>
 <p xml:lang="swe">Grå rutor = de organ till vilka vi väljer i kyrkovalet. Helfyllda vita och grå rutor = de beslutande organen. Streckade rutor = de verkställande organen. Direktvalt kyrkoråd är både beslutande och verkställande.</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Casillas grises = los órganos a los que elegimos en las elecciones eclesiásticas. Casillas totalmente blancas y grises = los órganos decisorios. Casillas marcadas = los órganos ejecutivos. El Consejo Parroquial directamente elegido es un órgano tanto decisorio como ejecutivo.</p>
+<p>=</p>
+<p>Casillas grises = los órganos a los que elegimos en las elecciones eclesiásticas. Casillas totalmente blancas y grises = los órganos decisorios. Casillas marcadas = los órganos ejecutivos. El Consejo Parroquial directamente elegido es un órgano tanto decisorio como ejecutivo.</p>
 <p xml:lang="swe">Du som är röstberättigad röstar i tre eller fyra val, det vill säga till Kyrkomötet, till stiftsfullmäktige och till ett eller två lokala organ beroende på om församlingen tillhör en samfällighet eller inte.</p>
-<p xml:lang="swe">=</p>
-<p xml:lang="swe">Si tiene derecho a voto votará en tres o cuatro elecciones, es decir al Sínodo General, al Sínodo o Asamblea Diocesal y a uno o dos órganos locales dependiendo de que la parroquia pertenezca a un presbiterio o no.</p>
-<p xml:lang="swe">Votar</p>
-<p xml:lang="swe">Votar se hace prácticamente de la misma manera que en las elecciones generales.</p>
-<p xml:lang="swe">Debe utilizar su tarjeta de elector si vota antes del día de las elecciones y si vota en un lugar especial de recepción del voto. También si vota en un local electoral debe tener consigo la tarjeta de elector.</p>
-<p xml:lang="swe">En el día de las elecciones el 18 de septiembre</p>
-<p xml:lang="swe">En el local electoral</p>
-<p xml:lang="swe">En la tarjeta de elector viene indicado en qué local electoral puede votar así como los horarios de apertura.</p>
-<p xml:lang="swe">En los lugares especiales de recepción del voto</p>
-<p xml:lang="swe">A veces también se instituyen lugares especiales de recepción del voto. Si existen tales el día de las elecciones entonces se indicará lugar y horarios de apertura en la tarjeta de elector.</p>
-<p xml:lang="swe">Antes del día de las elecciones</p>
-<p xml:lang="swe">Oficinas en todo el país.</p>
-<p xml:lang="swe">Entre el 5 de septiembre y el 14 de septiembre puede votar anticipadamente en las oficinas parroquiales de todo el país. Diríjase a la parroquia donde quiera votar para más información.</p>
-<p xml:lang="swe">Lugares especiales de recepción del voto</p>
-<p xml:lang="swe">Puede también haber lugares especiales de recepción del voto que estén abiertos para recibir el voto anticipado.</p>
-<p xml:lang="swe">Contacte a su parroquia para conocer qué posibilidades existen.</p>
-<p xml:lang="swe">Voto por correo</p>
-<p xml:lang="swe">Otra manera de votar anticipadamente es votar por correo. Para ello se necesita un <span type="quote" xml:lang="swe">“paquete de voto por correo”</span> que solicitará a su oficina parroquial. Éste contiene lo que necesita, entre otras cosas papeletas de voto en blanco que usted mismo puede rellenar. Por regla general puede sin embargo recibir papeletas de voto impresas del grupo de candidatura que tiene pensado votar. Su voto por correo debe haberse recibido como muy tarde el 14 de septiembre.</p>
-<p xml:lang="swe">Voto por conducto de terceros</p>
-<p xml:lang="swe">El voto por conducto de terceros se realiza de la misma manera que el voto por correo, pero constituye sobre todo una alternativa para el que haya pensado votar en local electoral y tiene impedimento para hacerlo el día de las elecciones. <span type="quote" xml:lang="swe">“El paquete de voto por correo”</span> contiene también lo que usted necesita para votar por conducto de terceros.</p>
-<p xml:lang="swe">¿A quiénes puede votar?</p>
-<p xml:lang="swe">En las elecciones eclesiásticas usted vota a un grupo de candidaturas, equivalentes a los partidos en las elecciones generales. También puede votar por personas, es decir señalar con una cruz el candidato de la lista de un grupo de candidaturas que prefiere que sea elegido.</p>
-<p xml:lang="swe">Los grupos de candidaturas le proporcionarán información sobre cómo quieren que la iglesia trabaje y actúe en el futuro, dónde ha de poner su esfuerzo la Iglesia Sueca. Por regla general su parroquia le informará sobre los grupos a los que usted podrá votar. Encontrará también las listas en www.svenskakyrkan.se.</p>
-<p xml:lang="swe">Resultado electoral</p>
-<p xml:lang="swe">En www.svenskakyrkan. se publicarán todos los resultados preliminares puesto que éstos se cuentan juntos, después del cierre de los locales electorales. El resultado final definitivo se publica entre otros en www.svenskakyrkan.se cuando la diócesis haya controlado el recuento de todos los votos.</p>
-<p xml:lang="swe">Su tarjeta de elector</p>
-<p xml:lang="swe">Si tiene derecho a voto deberá haber recibido en su casa su tarjeta de elector como muy tarde el 31 de agosto. En la tarjeta de elector se indica información personal sobre en qué elecciones puede votar, lo mismo que dónde y cuándo puede votar.</p>
-<p xml:lang="swe">Si ha perdido su tarjeta de elector, o si ésta contiene errores, puede dirigirse a Kyrkostyrelsen, Svenska kyrkan, 751 70 Uppsala, 018-16 96 00 (Servicio de Información), o solicitar una tarjeta nueva en www.svenskakyrkan.se. La persona que no haya recibido ninguna tarjeta de elector, pero considere que tiene derecho de voto, también puede dirigirse a la Comisión Permanente (Kyrkostyrelsen).</p>
-<p xml:lang="swe">La tarjeta de elector se remitirá a su dirección de registro civil. Se puede enviar por fax una copia de la tarjeta de elector a la parroquia donde usted vote y a las parroquias en el extranjero de la Iglesia Sueca.</p>
+<p>=</p>
+<p>Si tiene derecho a voto votará en tres o cuatro elecciones, es decir al Sínodo General, al Sínodo o Asamblea Diocesal y a uno o dos órganos locales dependiendo de que la parroquia pertenezca a un presbiterio o no.</p>
+<p>Votar</p>
+<p>Votar se hace prácticamente de la misma manera que en las elecciones generales.</p>
+<p>Debe utilizar su tarjeta de elector si vota antes del día de las elecciones y si vota en un lugar especial de recepción del voto. También si vota en un local electoral debe tener consigo la tarjeta de elector.</p>
+<p>En el día de las elecciones el 18 de septiembre</p>
+<p>En el local electoral</p>
+<p>En la tarjeta de elector viene indicado en qué local electoral puede votar así como los horarios de apertura.</p>
+<p>En los lugares especiales de recepción del voto</p>
+<p>A veces también se instituyen lugares especiales de recepción del voto. Si existen tales el día de las elecciones entonces se indicará lugar y horarios de apertura en la tarjeta de elector.</p>
+<p>Antes del día de las elecciones</p>
+<p>Oficinas en todo el país.</p>
+<p>Entre el 5 de septiembre y el 14 de septiembre puede votar anticipadamente en las oficinas parroquiales de todo el país. Diríjase a la parroquia donde quiera votar para más información.</p>
+<p>Lugares especiales de recepción del voto</p>
+<p>Puede también haber lugares especiales de recepción del voto que estén abiertos para recibir el voto anticipado.</p>
+<p>Contacte a su parroquia para conocer qué posibilidades existen.</p>
+<p>Voto por correo</p>
+<p>Otra manera de votar anticipadamente es votar por correo. Para ello se necesita un <span type="quote">“paquete de voto por correo”</span> que solicitará a su oficina parroquial. Éste contiene lo que necesita, entre otras cosas papeletas de voto en blanco que usted mismo puede rellenar. Por regla general puede sin embargo recibir papeletas de voto impresas del grupo de candidatura que tiene pensado votar. Su voto por correo debe haberse recibido como muy tarde el 14 de septiembre.</p>
+<p>Voto por conducto de terceros</p>
+<p>El voto por conducto de terceros se realiza de la misma manera que el voto por correo, pero constituye sobre todo una alternativa para el que haya pensado votar en local electoral y tiene impedimento para hacerlo el día de las elecciones. <span type="quote">“El paquete de voto por correo”</span> contiene también lo que usted necesita para votar por conducto de terceros.</p>
+<p>¿A quiénes puede votar?</p>
+<p>En las elecciones eclesiásticas usted vota a un grupo de candidaturas, equivalentes a los partidos en las elecciones generales. También puede votar por personas, es decir señalar con una cruz el candidato de la lista de un grupo de candidaturas que prefiere que sea elegido.</p>
+<p>Los grupos de candidaturas le proporcionarán información sobre cómo quieren que la iglesia trabaje y actúe en el futuro, dónde ha de poner su esfuerzo la Iglesia Sueca. Por regla general su parroquia le informará sobre los grupos a los que usted podrá votar. Encontrará también las listas en www.svenskakyrkan.se.</p>
+<p>Resultado electoral</p>
+<p>En www.svenskakyrkan. se publicarán todos los resultados preliminares puesto que éstos se cuentan juntos, después del cierre de los locales electorales. El resultado final definitivo se publica entre otros en www.svenskakyrkan.se cuando la diócesis haya controlado el recuento de todos los votos.</p>
+<p>Su tarjeta de elector</p>
+<p>Si tiene derecho a voto deberá haber recibido en su casa su tarjeta de elector como muy tarde el 31 de agosto. En la tarjeta de elector se indica información personal sobre en qué elecciones puede votar, lo mismo que dónde y cuándo puede votar.</p>
+<p>Si ha perdido su tarjeta de elector, o si ésta contiene errores, puede dirigirse a Kyrkostyrelsen, Svenska kyrkan, 751 70 Uppsala, 018-16 96 00 (Servicio de Información), o solicitar una tarjeta nueva en www.svenskakyrkan.se. La persona que no haya recibido ninguna tarjeta de elector, pero considere que tiene derecho de voto, también puede dirigirse a la Comisión Permanente (Kyrkostyrelsen).</p>
+<p>La tarjeta de elector se remitirá a su dirección de registro civil. Se puede enviar por fax una copia de la tarjeta de elector a la parroquia donde usted vote y a las parroquias en el extranjero de la Iglesia Sueca.</p>
 <p xml:lang="swe">svenskakyrkan.se</p>
 <p xml:lang="swe">För frågor eller synpunkter, kontakta kyrkokansliet på</p>
 <p xml:lang="swe">info@svenskakyrkan.se</p>
